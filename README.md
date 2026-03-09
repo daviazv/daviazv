@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Olá, eu sou Davi Azevedo
 
-<!--
-**daviazv/daviazv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor focado em bots para Discord e soluções digitais.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias
+- Node.js
+- JavaScript
+- TypeScript
+- Discord.js
+
+---
+
+## 📫 Contato
+📧 Email: davi019975@gmail.com  
+💬 Discord: sefad.
