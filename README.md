@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Davi Azevedo
 
-💻 Developer focused on Discord bots and digital solutions.
+Developer focused on Discord bots and digital solutions.
 
 ---
 
