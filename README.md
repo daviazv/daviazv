@@ -1,10 +1,10 @@
-# 👋 Olá, eu sou Davi Azevedo
+# 👋 Hello, I'm Davi Azevedo
 
-💻 Desenvolvedor focado em bots para Discord e soluções digitais.
+💻 Developer focused on Discord bots and digital solutions.
 
 ---
 
-## 🚀 Tecnologias
+## 🚀 Technologies
 - Node.js
 - JavaScript
 - TypeScript
@@ -12,6 +12,6 @@
 
 ---
 
-## 📫 Contato
+## 📫 Contact
 📧 Email: davi019975@gmail.com  
 💬 Discord: sefad.
