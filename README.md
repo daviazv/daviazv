@@ -5,10 +5,10 @@ Developer focused on Discord bots and digital solutions.
 ---
 
 ## 🚀 Technologies
-- Node.js
+- Python
 - JavaScript
 - TypeScript
-- Discord.js
+- Next.js
 
 ---
 
