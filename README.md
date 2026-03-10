@@ -13,5 +13,4 @@ Developer focused on Discord bots and digital solutions.
 ---
 
 ## 📫 Contact
-📧 Email: davi019975@gmail.com  
 💬 Discord: sefad.
